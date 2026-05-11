@@ -57,3 +57,12 @@ node <script> "your prompt" --token YOUR_TOKEN
 
 Returns a direct image URL.
 
+## Example Output
+
+```bash
+node pixelartgenerator.js "16-bit pixel art style, crisp pixels, limited retro color palette, classic arcade game aesthetic, clean sprite-sheet quality, sharp pixel edges, no anti-aliasing, vibrant nostalgic colors"
+```
+
+![Example output](https://oss.talesofai.cn/picture/c2b63d04-e26c-434c-a5f9-35ccccdea6b5.webp)
+
+> Prompt: *"16-bit pixel art style, crisp pixels, limited retro color palette, classic arcade game aesthetic, clean sprite-sheet quality, sharp pixel edges, no anti-aliasing, vibrant nostalgic colors"*
